@@ -1,0 +1,16 @@
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\bin\Debug\net5.0\rpscsharp.exe
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\bin\Debug\net5.0\rpscsharp.deps.json
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\bin\Debug\net5.0\rpscsharp.runtimeconfig.json
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\bin\Debug\net5.0\rpscsharp.runtimeconfig.dev.json
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\bin\Debug\net5.0\rpscsharp.dll
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\bin\Debug\net5.0\ref\rpscsharp.dll
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\bin\Debug\net5.0\rpscsharp.pdb
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.csprojAssemblyReference.cache
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.AssemblyInfoInputs.cache
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.AssemblyInfo.cs
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.csproj.CoreCompileInputs.cache
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.dll
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\ref\rpscsharp.dll
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.pdb
+C:\Users\steff\source\codeworks\afternoonchallenges\rpscsharp\obj\Debug\net5.0\rpscsharp.genruntimeconfig.cache
