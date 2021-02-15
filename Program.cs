@@ -22,7 +22,7 @@ namespace rpscsharp
         Console.WriteLine(@"
 
       Press P to play, or Q to quit:
-      If you play your choices are R,P,S (Rock, Paper, Scissors.)
+      If you play your choices are Rock,Paper, or Scissors
 ");
 
 
@@ -78,11 +78,11 @@ namespace rpscsharp
             Console.WriteLine("You Lose!!!");
           }
 
+          Thread.Sleep(1500);
         }
         else if (choice.Key == ConsoleKey.Q)
         {
           running = false;
-          //   Thread.Sleep(1500);
         }
         else
         {
